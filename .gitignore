@@ -1,0 +1,6 @@
+.trivy-cache/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
